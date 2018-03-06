@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ﻿test
 
 Phạm Văn Hoa
@@ -5,3 +6,5 @@ Phạm Văn Hoa
 ĐT: 0908843457
 
 Email của tui: hoapv76001@gmail.com
+=======
+>>>>>>> parent of 5720730... Sua file hoa.txt
